@@ -1,4 +1,4 @@
-TupleMap [![npm version](https://badge.fury.io/js/lrumap.svg)](https://badge.fury.io/js/lrumap) [![Build Status](https://travis-ci.org/memoize-immutable/lrumap.svg?branch=master)](https://travis-ci.org/memoize-immutable/lrumap) [![Dependency Status](https://david-dm.org/memoize-immutable/lrumap.svg)](https://david-dm.org/memoize-immutable/lrumap) [![Coverage Status](https://coveralls.io/repos/github/memoize-immutable/lrumap/badge.svg?branch=master)](https://coveralls.io/github/memoize-immutable/lrumap?branch=master)
+TupleMap [![npm version](https://badge.fury.io/js/lrumap.svg)](https://badge.fury.io/js/lrumap) [![Build Status](https://travis-ci.org/memoize-immutable/LRUMap.svg?branch=master)](https://travis-ci.org/memoize-immutable/LRUMap) [![Dependency Status](https://david-dm.org/memoize-immutable/LRUMap.svg)](https://david-dm.org/memoize-immutable/LRUMap) [![Coverage Status](https://coveralls.io/repos/github/memoize-immutable/LRUMap/badge.svg?branch=master)](https://coveralls.io/github/memoize-immutable/LRUMap?branch=master)
 ========
 
 A Map of limited size that keeps most recently used values.
