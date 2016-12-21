@@ -6,8 +6,6 @@ function LRUMap( opts ) {
 }
 
 LRUMap.prototype = {
-  // This is used by memoize-immutable to recognize this cache and use it with
-  // a single arg, and not a tuple of args
   toString: function() {
     return '[object LRUMap]';
   },
